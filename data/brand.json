@@ -1,0 +1,9 @@
+{
+  "brandName": "Fashion",
+  "about": "",
+  "audience": "Indian women 20-32",
+  "toneRules": "Warm, practical, no hype",
+  "alwaysEnsure": "1. Voice preservation\n2. ⁠Face and looks and hair preservation unless directed in direction prompt\n3. ⁠product preservation\n4. ⁠Speaking style consistency\n5. character speaks hinglish that is mix of english and hindi. it should never be only english",
+  "alwaysAvoid": "1. Discount claims, guaranteed outcomes\n2. repetition of same lines when the model is speaking",
+  "updatedAt": "2026-10-29T17:34:30.264Z"
+}

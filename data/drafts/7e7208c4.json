@@ -1,0 +1,92 @@
+{
+  "id": "7e7208c4",
+  "title": "Rooftop cafe fitcheck",
+  "createdAt": "2026-11-11T14:10:21.408Z",
+  "updatedAt": "2026-11-11T14:24:04.861Z",
+  "configName": "Fashion",
+  "productUrls": [],
+  "productImages": [
+    "/products/9656e209.jpg",
+    "/products/1cbf0333.jpg"
+  ],
+  "targetSeconds": 20,
+  "speaking": true,
+  "concept": {
+    "title": "Rooftop cafe fitcheck",
+    "hook": "aaj ka fitcheck",
+    "voiceoverScript": "",
+    "scenes": [
+      {
+        "durationSec": 10,
+        "visualPrompt": "Open rooftop cafe terrace with plain light concrete floor, a few potted green plants and simple wooden furniture in the background, warm golden late-afternoon sunlight, relaxed sunny mood. She wears a black vest top and cargo pants, both exactly as shown in the product reference photos, plain white sneakers, and dark cat-eye sunglasses, holding a plain clear cup of iced coffee with no markings. Full-body framing, camera steady at waist height, as she walks from the back of the terrace straight toward the camera with an easy confident stride. Warm sunlight catches the black vest top and the cargo pants sway naturally as she moves.",
+        "dialogue": ""
+      },
+      {
+        "durationSec": 10,
+        "visualPrompt": "Same open rooftop cafe terrace with plain light concrete floor, potted green plants and simple wooden furniture in the background, same warm golden late-afternoon sunlight, same relaxed sunny mood. She wears the same black vest top and cargo pants, both exactly as shown in the product reference photos, the same plain white sneakers and dark cat-eye sunglasses, still holding the plain clear cup of iced coffee with no markings. Opens on the same full-body framing with the camera steady at waist height, continuing the easy confident stride from the previous shot as she takes the last two steps toward the camera and stops. She does a slow, unhurried full turn on the spot so the back and side of the cargo pants and the black vest top are visible as shown in the reference, briefly resting her free hand on the side pocket of the cargo pants mid-turn. She faces the camera again and holds a relaxed pose for a beat, weight shifted onto one hip. The camera then glides in smoothly to a chest-up framing, and she lifts the iced coffee slightly toward the lens with a relaxed smirk, holding that final pose as the warm sunlight catches the black vest top. Continuous, smooth, unhurried movement filling the whole shot.",
+        "dialogue": ""
+      }
+    ],
+    "caption": "aaj ka fitcheck, rooftop edition ☀️ Black vest aur cargo pants - jab comfort bhi chahiye aur style bhi. Coffee date ke liye perfect lagta hai na?",
+    "hashtags": [
+      "aajkafitcheck",
+      "fitcheck",
+      "ootd",
+      "outfitoftheday",
+      "cargopants",
+      "blackvesttop",
+      "cafeoutfit",
+      "casualstyle",
+      "indianfashion",
+      "everydaystyle"
+    ],
+    "musicMood": "Breezy, sunny Punjabi-pop beat with a light bounce and a warm, feel-good energy"
+  },
+  "flow": {
+    "characterPrompt": "CHARACTER REFERENCE (use the attached image as the exact likeness):\nA young Indian woman in her mid-twenties with long dark brown hair, loosely waved and falling past her shoulders, parted slightly off-centre. Warm medium skin tone, dark brown almond-shaped eyes, full defined eyebrows, high cheekbones, a softly rounded jaw and a natural warm smile. Slim build, average height.\n\nVOICE: Warm, bright young female voice with a natural Indian English accent, medium pitch, clear unforced pronunciation, conversational rather than presentational. Speaks natural Hinglish, switching easily between Hindi and English. Sounds like a friend talking to camera, not a voice-over. Lively pitch variation, genuine enthusiasm, natural pauses. Never flat, never salesy.\nShe should always be speaking in hinglish that is mix of english and hindi\n\nThis is a fully AI-generated fictional character. No real person, celebrity or\npublic figure is depicted, referenced or named. Keep her face, hair, skin tone\nand marks identical in every shot.",
+    "characterImageUrl": "/character/ref0.png",
+    "productImageUrls": [
+      "/products/9656e209.jpg",
+      "/products/1cbf0333.jpg"
+    ],
+    "shots": [
+      {
+        "index": 0,
+        "imagePrompt": "STILL FOR SHOT 1 OF 2\n\nOpen rooftop cafe terrace with plain light concrete floor, a few potted green plants and simple wooden furniture in the background, warm golden late-afternoon sunlight, relaxed sunny mood. She wears a black vest top and cargo pants, both exactly as shown in the product reference photos, plain white sneakers, and dark cat-eye sunglasses, holding a plain clear cup of iced coffee with no markings. Full-body framing, camera steady at waist height, as she walks from the back of the terrace straight toward the camera with an easy confident stride. Warm sunlight catches the black vest top and the cargo pants sway naturally as she moves.\n\nThis is the establishing shot. It sets the location, lighting and her outfit for the whole reel. Attach the product photographs too.\n\nVertical 9:16 portrait composition, photorealistic, cinematic lighting.\n\nSYNTHETIC CONTENT DECLARATION. This is a fully AI-generated fictional character created for this production. No real person, celebrity, public figure, influencer or existing model is depicted, referenced, named or impersonated anywhere in this shot. Any brand or product shown is referred to generically. There is no real individual's likeness or name in this prompt.\n\nCONTINUITY. The attached photograph shows the styled look for this shoot. Every frame features that same look: A young Indian woman in her mid-twenties with long dark brown hair, loosely waved and falling past her shoulders, parted slightly off-centre. Warm medium skin tone, dark brown almond-shaped eyes, full defined eyebrows, high cheekbones, a softly rounded jaw and a natural warm smile. Slim build, average height. Keep that look consistent.\n\nPRODUCT APPEARANCE LOCK. The attached product photographs show the exact item. Copy it from those photographs: its neckline, sleeves, hemline, cut, print placement, embroidery, trims and colour are whatever the photographs show, not whatever is usual for the garment. Reproduce it exactly as supplied. Preserve its exact colours, materials, pattern, geometry, proportions, lettering and branding. Do not redesign it, do not substitute a similar-looking item, do not invent logos or alter text. It may move naturally, but must not morph, stretch, duplicate or change design between frames.\n\nRESTRICTIONS. No extra props or accessories beyond those described. No subtitles or on-screen text. No watermarks or logos other than the product's own.\n\nPRIORITY ORDER: exact product appearance, then character identity, then scene and motion.",
+        "videoPrompt": "SHOT 1 OF 2\n\nOpen rooftop cafe terrace with plain light concrete floor, a few potted green plants and simple wooden furniture in the background, warm golden late-afternoon sunlight, relaxed sunny mood. She wears a black vest top and cargo pants, both exactly as shown in the product reference photos, plain white sneakers, and dark cat-eye sunglasses, holding a plain clear cup of iced coffee with no markings. Full-body framing, camera steady at waist height, as she walks from the back of the terrace straight toward the camera with an easy confident stride. Warm sunlight catches the black vest top and the cargo pants sway naturally as she moves.\n\nSYNTHETIC CONTENT DECLARATION. This is a fully AI-generated fictional character created for this production. No real person, celebrity, public figure, influencer or existing model is depicted, referenced, named or impersonated anywhere in this shot. Any brand or product shown is referred to generically. There is no real individual's likeness or name in this prompt.\n\nCHARACTER IDENTITY LOCK. Use the attached reference image as her exact likeness. Preserve her exact facial identity, skin tone, facial proportions and hair throughout: A young Indian woman in her mid-twenties with long dark brown hair, loosely waved and falling past her shoulders, parted slightly off-centre. Warm medium skin tone, dark brown almond-shaped eyes, full defined eyebrows, high cheekbones, a softly rounded jaw and a natural warm smile. Slim build, average height. Do not alter her face, age or build. Do not substitute a different person.\n\nPRODUCT APPEARANCE LOCK. The attached product photographs show the exact item. Copy it from those photographs: its neckline, sleeves, hemline, cut, print placement, embroidery, trims and colour are whatever the photographs show, not whatever is usual for the garment. Reproduce it exactly as supplied. Preserve its exact colours, materials, pattern, geometry, proportions, lettering and branding. Do not redesign it, do not substitute a similar-looking item, do not invent logos or alter text. It may move naturally, but must not morph, stretch, duplicate or change design between frames.\n\nSINGLE CONTINUOUS TAKE. This is ONE unbroken shot filmed in ONE location. Do not cut away. Do not change the room, the background, the furniture, the time of day or the lighting at any point. Do not change her outfit, hair or jewellery mid-shot. Do not jump to a wide shot of a different place. The camera may move smoothly, and she may move within the frame, but the viewer must never see a second location.\n\nRESTRICTIONS. No extra props or accessories beyond those described. No subtitles or on-screen text. No watermarks or logos other than the product's own.\n\nPRIORITY ORDER: exact product appearance, then character identity, then scene and motion.",
+        "dialogue": ""
+      },
+      {
+        "index": 1,
+        "imagePrompt": "STILL FOR SHOT 2 OF 2\n\nSame open rooftop cafe terrace with plain light concrete floor, potted green plants and simple wooden furniture in the background, same warm golden late-afternoon sunlight, same relaxed sunny mood. She wears the same black vest top and cargo pants, both exactly as shown in the product reference photos, the same plain white sneakers and dark cat-eye sunglasses, still holding the plain clear cup of iced coffee with no markings. Opens on the same full-body framing with the camera steady at waist height, continuing the easy confident stride from the previous shot as she takes the last two steps toward the camera and stops. She does a slow, unhurried full turn on the spot so the back and side of the cargo pants and the black vest top are visible as shown in the reference, briefly resting her free hand on the side pocket of the cargo pants mid-turn. She faces the camera again and holds a relaxed pose for a beat, weight shifted onto one hip. The camera then glides in smoothly to a chest-up framing, and she lifts the iced coffee slightly toward the lens with a relaxed smirk, holding that final pose as the warm sunlight catches the black vest top. Continuous, smooth, unhurried movement filling the whole shot.\n\nMatch shot 1 exactly: same location, same lighting, same outfit and jewellery. Only her pose and the framing change. Attach shot 1's image alongside the character reference. Attach the product photographs too.\n\nVertical 9:16 portrait composition, photorealistic, cinematic lighting.\n\nSYNTHETIC CONTENT DECLARATION. This is a fully AI-generated fictional character created for this production. No real person, celebrity, public figure, influencer or existing model is depicted, referenced, named or impersonated anywhere in this shot. Any brand or product shown is referred to generically. There is no real individual's likeness or name in this prompt.\n\nCONTINUITY. The attached photograph shows the styled look for this shoot. Every frame features that same look: A young Indian woman in her mid-twenties with long dark brown hair, loosely waved and falling past her shoulders, parted slightly off-centre. Warm medium skin tone, dark brown almond-shaped eyes, full defined eyebrows, high cheekbones, a softly rounded jaw and a natural warm smile. Slim build, average height. Keep that look consistent.\n\nPRODUCT APPEARANCE LOCK. The attached product photographs show the exact item. Copy it from those photographs: its neckline, sleeves, hemline, cut, print placement, embroidery, trims and colour are whatever the photographs show, not whatever is usual for the garment. Reproduce it exactly as supplied. Preserve its exact colours, materials, pattern, geometry, proportions, lettering and branding. Do not redesign it, do not substitute a similar-looking item, do not invent logos or alter text. It may move naturally, but must not morph, stretch, duplicate or change design between frames.\n\nRESTRICTIONS. No extra props or accessories beyond those described. No subtitles or on-screen text. No watermarks or logos other than the product's own.\n\nPRIORITY ORDER: exact product appearance, then character identity, then scene and motion.",
+        "videoPrompt": "SHOT 2 OF 2\n\nSame open rooftop cafe terrace with plain light concrete floor, potted green plants and simple wooden furniture in the background, same warm golden late-afternoon sunlight, same relaxed sunny mood. She wears the same black vest top and cargo pants, both exactly as shown in the product reference photos, the same plain white sneakers and dark cat-eye sunglasses, still holding the plain clear cup of iced coffee with no markings. Opens on the same full-body framing with the camera steady at waist height, continuing the easy confident stride from the previous shot as she takes the last two steps toward the camera and stops. She does a slow, unhurried full turn on the spot so the back and side of the cargo pants and the black vest top are visible as shown in the reference, briefly resting her free hand on the side pocket of the cargo pants mid-turn. She faces the camera again and holds a relaxed pose for a beat, weight shifted onto one hip. The camera then glides in smoothly to a chest-up framing, and she lifts the iced coffee slightly toward the lens with a relaxed smirk, holding that final pose as the warm sunlight catches the black vest top. Continuous, smooth, unhurried movement filling the whole shot.\n\nSYNTHETIC CONTENT DECLARATION. This is a fully AI-generated fictional character created for this production. No real person, celebrity, public figure, influencer or existing model is depicted, referenced, named or impersonated anywhere in this shot. Any brand or product shown is referred to generically. There is no real individual's likeness or name in this prompt.\n\nCHARACTER IDENTITY LOCK. Use the attached reference image as her exact likeness. Preserve her exact facial identity, skin tone, facial proportions and hair throughout: A young Indian woman in her mid-twenties with long dark brown hair, loosely waved and falling past her shoulders, parted slightly off-centre. Warm medium skin tone, dark brown almond-shaped eyes, full defined eyebrows, high cheekbones, a softly rounded jaw and a natural warm smile. Slim build, average height. Do not alter her face, age or build. Do not substitute a different person.\n\nPRODUCT APPEARANCE LOCK. The attached product photographs show the exact item. Copy it from those photographs: its neckline, sleeves, hemline, cut, print placement, embroidery, trims and colour are whatever the photographs show, not whatever is usual for the garment. Reproduce it exactly as supplied. Preserve its exact colours, materials, pattern, geometry, proportions, lettering and branding. Do not redesign it, do not substitute a similar-looking item, do not invent logos or alter text. It may move naturally, but must not morph, stretch, duplicate or change design between frames.\n\nSINGLE CONTINUOUS TAKE. This is ONE unbroken shot filmed in ONE location. Do not cut away. Do not change the room, the background, the furniture, the time of day or the lighting at any point. Do not change her outfit, hair or jewellery mid-shot. Do not jump to a wide shot of a different place. The camera may move smoothly, and she may move within the frame, but the viewer must never see a second location.\n\nRESTRICTIONS. No extra props or accessories beyond those described. No subtitles or on-screen text. No watermarks or logos other than the product's own.\n\nPRIORITY ORDER: exact product appearance, then character identity, then scene and motion.",
+        "dialogue": ""
+      }
+    ],
+    "caption": "aaj ka fitcheck, rooftop edition ☀️ Black vest aur cargo pants - jab comfort bhi chahiye aur style bhi. Coffee date ke liye perfect lagta hai na?",
+    "hashtags": [
+      "aajkafitcheck",
+      "fitcheck",
+      "ootd",
+      "outfitoftheday",
+      "cargopants",
+      "blackvesttop",
+      "cafeoutfit",
+      "casualstyle",
+      "indianfashion",
+      "everydaystyle"
+    ],
+    "removedTerms": [],
+    "respellings": [],
+    "hasStoryboard": false
+  },
+  "shots": {
+    "1": {
+      "rendered": false,
+      "revisions": [
+        "shot 1 was only 4 seconds. shot 2 should be at least 10 seconds and in continuity with shot 1 and same style as in reference reel"
+      ]
+    }
+  },
+  "notes": ""
+}

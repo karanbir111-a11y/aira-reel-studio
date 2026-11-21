@@ -1,0 +1,35 @@
+# Secrets. Never commit these - see .env.example for the shape.
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+.next/
+*.tsbuildinfo
+
+# Generated video and images. These are outputs, not source: they are large,
+# they are reproducible, and two people's copies will never agree.
+output/
+outputs/
+app/public/reels/
+app/public/products/
+app/public/character/
+*.mp4
+*.mov
+*.wav
+
+# Persona experiments and the pre-retouch originals. Only character/refs/ref0.png
+# is the live likeness - personaReferences() reads character/refs/ and nothing
+# else. Keeping the discarded variants out of the repo is deliberate: a stray
+# ref*_mole.png in that folder would quietly put the chin mark back.
+character/refs/archive/
+character/*.png
+
+# Local backups
+*.bak
+data/*.csv.bak
+
+# OS noise
+.DS_Store
+Thumbs.db
